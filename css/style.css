@@ -1,5 +1,15 @@
 body{
-    color:blueviolet;
-    font-family:verdana;
+    color:red;
+    font-family:sans-serif,Verdana;
 
+}
+ 
+a{
+    color:blue;
+    display:inline-block;
+}
+
+a:hover{
+    color:brown;
+    display:inline-block;
 }
